@@ -17,34 +17,5 @@ The model was trained for 50 epochs with early stopping (patience=5). The best v
 - `metadata.csv`, `metadata_rgb_only.csv` — dataset metadata
 - `epochs.txt` — training logs
 
-## Setup
-```bash
-pip install torch torchvision pillow customtkinter opencv-python scikit-learn
-python brain_tumor_model.py   # creates best_model.pth
-python brain_tumor_gui.py
-
-## Dataset Layout
-```text
-Brain_Tumor_Data_Set/
-└── Brain_Tumor_Data_Set/
-    ├── Healthy/
-    └── Brain_Tumor/
-```
-
-## Train
-```bash
-python brain_tumor_model.py
-```
-This creates `best_model.pth` in the project root.
-
-## Run GUI
-```bash
-python brain_tumor_gui.py
-```
-Upload an MRI image (`.jpg`, `.png`, etc.) to get a prediction.
-
-## Note
-`best_model.pth` is not included due to GitHub file size limits. Train the model first.
-
 ## Disclaimer
 For educational and research purposes only. Not a substitute for professional medical advice, diagnosis, or treatment.
