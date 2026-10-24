@@ -1,0 +1,15 @@
+# Virtual Environments
+venv/
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Data folders
+Brain_Tumor_Data_Set/
+Test/
+data/
+
+# Large Model Files
+best_model.pth

@@ -1,0 +1,31 @@
+Epoch 1/50, Train Loss: 0.6631, Val Loss: 0.4172, Val Accuracy: 0.8381
+Best model saved!
+Epoch 2/50, Train Loss: 0.4130, Val Loss: 0.4744, Val Accuracy: 0.7852
+Epoch 3/50, Train Loss: 0.3223, Val Loss: 0.2879, Val Accuracy: 0.8902
+Best model saved!
+Epoch 4/50, Train Loss: 0.2859, Val Loss: 0.2706, Val Accuracy: 0.9010
+Best model saved!
+Epoch 5/50, Train Loss: 0.2666, Val Loss: 0.3587, Val Accuracy: 0.8440
+Epoch 6/50, Train Loss: 0.2108, Val Loss: 0.2227, Val Accuracy: 0.9242
+Best model saved!
+Epoch 7/50, Train Loss: 0.1761, Val Loss: 0.1960, Val Accuracy: 0.9350
+Best model saved!
+Epoch 8/50, Train Loss: 0.1450, Val Loss: 0.1886, Val Accuracy: 0.9409
+Best model saved!
+Epoch 9/50, Train Loss: 0.1829, Val Loss: 0.2179, Val Accuracy: 0.9253
+Epoch 10/50, Train Loss: 0.1291, Val Loss: 0.1731, Val Accuracy: 0.9495
+Best model saved!
+Epoch 11/50, Train Loss: 0.1164, Val Loss: 0.2141, Val Accuracy: 0.9339
+Epoch 12/50, Train Loss: 0.0981, Val Loss: 0.1673, Val Accuracy: 0.9554
+Best model saved!
+Epoch 13/50, Train Loss: 0.0790, Val Loss: 0.1621, Val Accuracy: 0.9587
+Best model saved!
+Epoch 14/50, Train Loss: 0.0732, Val Loss: 0.1877, Val Accuracy: 0.9393
+Epoch 15/50, Train Loss: 0.0701, Val Loss: 0.1579, Val Accuracy: 0.9667
+Best model saved!
+Epoch 16/50, Train Loss: 0.0641, Val Loss: 0.1707, Val Accuracy: 0.9495
+Epoch 17/50, Train Loss: 0.0733, Val Loss: 0.1805, Val Accuracy: 0.9510
+Epoch 18/50, Train Loss: 0.0568, Val Loss: 0.1583, Val Accuracy: 0.9656
+Epoch 19/50, Train Loss: 0.0473, Val Loss: 0.1596, Val Accuracy: 0.9570
+Epoch 20/50, Train Loss: 0.0451, Val Loss: 0.1686, Val Accuracy: 0.9548
+Early stopping triggered!
